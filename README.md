@@ -102,12 +102,6 @@ ADA-MAIN/
 
 ---
 
-## How to Run
-
-1. Clone or download the repository
-2. Open in your preferred IDE
-3. Compile and run the desired algorithm file
-
 ---
 
 ## Learning Outcomes
@@ -120,11 +114,8 @@ ADA-MAIN/
 
 ## Author
 
-Ritik Kumar
+tejas raghav
 Analysis and design of algorithms/ B.tech CSE(AI - ML)
 
----
 
-## Academic Use
 
-This project is created for academic purposes as part of the ADA course.
